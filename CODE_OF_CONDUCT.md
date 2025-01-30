@@ -1,42 +1,26 @@
-# Contributor Covenant Code of Conduct
+# Code of Conduct
 
-## Our Pledge
+## The Pledge
 
 We as members, contributors, and leaders pledge to make participation in our
-community a harassment-free experience for everyone, regardless of age, body
-size, visible or invisible disability, ethnicity, sex characteristics, gender
-identity and expression, level of experience, education, socio-economic status,
-nationality, personal appearance, race, religion, or sexual identity
-and orientation.
+community a harassment-free experience for users of every race, religion, color and creed. 
 
-We pledge to act and interact in ways that contribute to an open, welcoming,
-diverse, inclusive, and healthy community.
+We pledge to act and interact in ways that contribute to an open and welcoming community.
 
-## Our Standards
+## Do
 
-Examples of behavior that contributes to a positive environment for our
-community include:
+* Be logical
+* Be respectful
+* Give constructive feedback
+* Use common sense in your interactions
 
-* Demonstrating empathy and kindness toward other people
-* Being respectful of differing opinions, viewpoints, and experiences
-* Giving and gracefully accepting constructive feedback
-* Accepting responsibility and apologizing to those affected by our mistakes,
-  and learning from the experience
-* Focusing on what is best not just for us as individuals, but for the
-  overall community
+## Don't
 
-Examples of unacceptable behavior include:
+* Don't violate [the GitHub community's code of conduct](https://docs.github.com/en/site-policy/github-terms/github-community-code-of-conduct)
+* Troll, insult or spam
 
-* The use of sexualized language or imagery, and sexual attention or
-  advances of any kind
-* Trolling, insulting or derogatory comments, and personal or political attacks
-* Public or private harassment
-* Publishing others' private information, such as a physical or email
-  address, without their explicit permission
-* Other conduct which could reasonably be considered inappropriate in a
-  professional setting
+## Possible moderation actions
 
-
-#### Resources:
-
-- [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/)
+* Removal of the violating content
+* Blocking the user's account
+* Reporting the violating to the GitHub
